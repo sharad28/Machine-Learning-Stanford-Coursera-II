@@ -5,6 +5,8 @@ This is my solution to 7 to 9  week the programming assignments of Machine-Learn
 
 Contents
 
-Lectures Slides
-Solution to programming assignment
+1. Lectures Slides
+2. Solution to programming assignment
+
+
 References [1] Machine Learning - Stanford University
